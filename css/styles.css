@@ -93,13 +93,17 @@ a {
 }
 
 .btn-banner {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+}
+
+.btn-banner:hover,
+.btn-banner:focus {
+  background-color: #2e2f42;
 }
 
 .card-title {
@@ -150,6 +154,22 @@ a {
   line-height: 1.11111;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.card-portfolio-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.card-portfolio-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 /* --footer-- */
