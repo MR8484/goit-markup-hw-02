@@ -100,9 +100,9 @@ a {
   text-align: center;
   color: #fff;
   background-color: #4d5ae5;
-  cursor: pointer;
 }
 
+.btn-banner:pointer,
 .btn-banner:hover,
 .btn-banner:focus {
   background-color: #404bbf;
