@@ -56,22 +56,22 @@ a {
 
 .nav-link:hover,
 .nav-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 .contact-info {
   font-style: normal;
 }
 
-.Contacts-link {
+.contacts-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.Contacts-link:hover,
-.Contacts-link:focus {
-  color: #4d5ae5;
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
 }
 
 .page-footer {
@@ -87,7 +87,7 @@ a {
 .section-baner-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
 }
@@ -97,8 +97,10 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  text-align: center;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .btn-banner:hover,
