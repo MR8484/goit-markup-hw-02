@@ -100,12 +100,16 @@ a {
   text-align: center;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
-.btn-banner:pointer,
 .btn-banner:hover,
 .btn-banner:focus {
   background-color: #404bbf;
+}
+
+.our-team {
+  background-color: #f4f4fd;
 }
 
 .card-title {
@@ -127,9 +131,14 @@ a {
 .our-team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
+}
+
+.team-list {
+  background-color: #ffffff;
 }
 
 .card-team-title {
